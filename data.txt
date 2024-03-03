@@ -1,0 +1,10 @@
+User resistance is a complex phenomenon long viewed as a major constraint in successful information
+technology implementation. User resistance, which can vary between passive and active, could be a
+source of guidance towards reducing problems associated with organisational change. However, rather
+than embracing user resistance and seeing it as a learning opportunity and a tool for managing current
+and future difficulties around user resistance, organisations fear it. There exist a wide literature on user
+resistance spanning decades;focusing separately on user resistance, and various related factors. However,
+there is no comprehensive overview ofthe research work published. This study presents a comprehensive
+literature review to gain a better understanding of the contents of the current user resistance literature.
+Based on the findings from the literature review, areas of concern and the impact of user resistance on
+the development of new information technology are identified and how to overcome the resistance is suggested
