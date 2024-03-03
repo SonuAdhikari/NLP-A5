@@ -1,2 +1,2 @@
 # NLP-A5
-Text Similarity
+Sentence Embedding with BERT
